@@ -1,15 +1,5 @@
 # Delete Inactive Themes and Plugins
 
-**Contributors:** Mahedi Hasan  
-**Tags:** delete, inactive, themes, plugins  
-**Requires at least:** 5.0  
-**Tested up to:** 5.8  
-**Stable tag:** 1.0.1  
-**License:** GPLv2 or later  
-**License URI:** https://www.gnu.org/licenses/gpl-2.0.html
-
-A plugin to delete selected inactive themes and plugins except the active ones.
-
 ## Description
 
 This plugin allows administrators to delete selected inactive themes and plugins. It provides a user-friendly interface where you can select which themes and plugins to delete, including a "Select All" option.
@@ -28,25 +18,6 @@ This plugin allows administrators to delete selected inactive themes and plugins
 4. Select the themes and plugins you want to delete. Active themes and plugins are indicated and cannot be deleted.
 5. Use the "Select All Themes" and "Select All Plugins" checkboxes to select all deletable themes and plugins.
 6. Click the "Delete Selected Items" button to delete the selected themes and plugins.
-
-## Screenshots
-
-1. Admin interface showing themes and plugins with checkboxes.
-![Screenshot 1](screenshot-1.png)
-
-## Changelog
-
-### 1.0.1
-* Added functionality to delete inactive plugins.
-* Improved interface with "Select All" options.
-
-### 1.0.0
-* Initial release.
-
-## Author
-
-**Mahedi Hasan**  
-[https://mahedi.whizbd.com](https://mahedi.whizbd.com)
 
 ## License
 
